@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\HOC\\DosNet\\bai1\\th1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9EA651A4-8624-41B5-97A7-24A4189FAE08}|th1\\th1.csproj|e:\\hoc\\dosnet\\bai1\\th1\\th1\\views\\thongtinsinhvien\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9EA651A4-8624-41B5-97A7-24A4189FAE08}|th1\\th1.csproj|solutionrelative:th1\\views\\thongtinsinhvien\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EA651A4-8624-41B5-97A7-24A4189FAE08}|th1\\th1.csproj|E:\\HOC\\DosNet\\bai1\\th1\\th1\\controllers\\thongtinsinhviencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EA651A4-8624-41B5-97A7-24A4189FAE08}|th1\\th1.csproj|solutionrelative:th1\\controllers\\thongtinsinhviencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 299,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f53-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\HOC\\DosNet\\bai1\\th1\\th1\\Views\\ThongTinSinhVien\\Index.cshtml",
+              "RelativeDocumentMoniker": "th1\\Views\\ThongTinSinhVien\\Index.cshtml",
+              "ToolTip": "E:\\HOC\\DosNet\\bai1\\th1\\th1\\Views\\ThongTinSinhVien\\Index.cshtml",
+              "RelativeToolTip": "th1\\Views\\ThongTinSinhVien\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-28T03:34:20.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ThongTinSinhVienController.cs",
+              "DocumentMoniker": "E:\\HOC\\DosNet\\bai1\\th1\\th1\\Controllers\\ThongTinSinhVienController.cs",
+              "RelativeDocumentMoniker": "th1\\Controllers\\ThongTinSinhVienController.cs",
+              "ToolTip": "E:\\HOC\\DosNet\\bai1\\th1\\th1\\Controllers\\ThongTinSinhVienController.cs",
+              "RelativeToolTip": "th1\\Controllers\\ThongTinSinhVienController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T03:32:46.163Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 39,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 75,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 17,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
